@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+'''Module containing unittests for client module'''
 from parameterized import parameterized
 import unittest
 from unittest.mock import patch, Mock
